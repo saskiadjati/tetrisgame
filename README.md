@@ -1,11 +1,12 @@
-Tetris Game create by:
-1. Saskia Bayudjati : Javascript Github & Pemecah Masalah
-2. Syahla Dwi Agustiyani : HTML Github & Pemecah Masalah
-3. Yunika Adika Putri : Blogger & Penguji
+Game Tetris dibuat oleh:
 
-Fitur Tetris Game :
-1. Permainan puzzle
-2. Mudah dimainkan & mengasah fokus
+Saskia Bayudjati : Javascript Github & Pemecah Masalah
+Syahla Dwi Agustiyani : HTML Github & Pemecah Masalah
+Yunika Adika Putri : Blogger & Penguji
+Fitur Permainan Tetris :
 
-Update Tetris :
-1. Launcher Game
+Teka-teki permainan
+Mudah dimainkan & mengasah fokus
+Perbarui Tetris :
+
+Permainan Peluncur
