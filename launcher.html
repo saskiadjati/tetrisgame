@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tetris</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .launcher-container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #4CAF50;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        img {
+            max-width: 200px; 
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="launcher-container">
+        <img src="https://m.media-amazon.com/images/M/MV5BOWU4YWRhY2UtODUwZi00NDgxLWFmZDYtZTljYjRjYTFmOTE4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg" alt="Tetris Logo">
+        <h1>Tetris Game</h1>
+        <button onclick="startGame()">Start Game</button>
+    </div>
+
+    <script>
+        function startGame() {
+            // Redirect to the game page or perform necessary actions to start the game
+            window.location.href = "index.html"; // Change "tetris.html" to your actual game page
+        }
+    </script>
+</body>
+</html>
